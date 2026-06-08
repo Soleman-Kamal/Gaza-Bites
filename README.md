@@ -1,4 +1,4 @@
-# 🍔 Gaza Bites
+# 🍔 Flavor House
 
 A modern restaurant website built using HTML and CSS.
 
@@ -6,7 +6,7 @@ A modern restaurant website built using HTML and CSS.
 
 ## 🚀 Live Demo
 
-👉 https://Soleman-Kamal.github.io/Gaza-Bites/
+👉 https://Soleman-Kamal.github.io/Flavor-House/
 
 ---
 
@@ -26,7 +26,7 @@ A modern restaurant website built using HTML and CSS.
 ## 📂 Project Structure
 
 ```
-Gaza-Bites/
+Flavor-House/
 │── index.html
 │── style.css
 │── image.png
